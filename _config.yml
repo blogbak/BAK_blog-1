@@ -14,7 +14,7 @@ gems: [jekyll-paginate]
 title:            fiona
 tagline:          '从这里出初江湖，携手仗剑江湖路'
 description:      'Hello'
-baseurl:           /
+baseurl:           /blog3.4y.gs
 author:
   name:           'fiona'
   url:            https://github.com/fiona23
